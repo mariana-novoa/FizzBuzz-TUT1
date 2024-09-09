@@ -51,6 +51,9 @@ class FizzBuzz {
         }
 
             }
-        }
+
+    public static void doFizzBuzz(int i) {
+    }
+}
 
 
